@@ -108,7 +108,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/capucine-chapel-a17a43130
- - icon: orcid
+  - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-4309-3924
   # Link to a PDF of your resume/CV.
