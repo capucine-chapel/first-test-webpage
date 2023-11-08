@@ -36,7 +36,7 @@ abstract: While the African continent has one of the largest renewable energy po
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
