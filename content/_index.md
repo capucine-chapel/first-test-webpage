@@ -59,6 +59,16 @@ sections:
     design:
       columns: '2'
       view: citation
+ - block: collection
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - workingpapers
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
 
   - block: collection
     id: talks
