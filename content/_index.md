@@ -61,17 +61,6 @@ sections:
       view: citation
 
   - block: collection
-    content:
-      title: Working Papers
-      filters:
-        folders:
-          - workingpapers
-    design:
-      columns: '2'
-      view: compact
-
-    
-  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
