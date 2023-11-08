@@ -60,13 +60,12 @@ sections:
       columns: '2'
       view: citation
 
- - block: collection
-    id: workingpapers
+  - block: collection
     content:
-      title: Working Papers 
+      title: Working Papers
       filters:
         folders:
-         - workingpapers
+          - workingpapers
     design:
       columns: '2'
       view: compact
